@@ -11,7 +11,7 @@ public class Main {
             // Onyx
             String database_url = "jdbc:mysql://localhost:51171/GradeManagement?verifyServerCertificate=false&useSSL=true";
             String username = "msandbox";
-            String password = "deeptirao99";
+            String password = "*********99";
 
             Connection conn = DriverManager.getConnection(database_url, username, password);
             System.out.println("Database connected!");
